@@ -1,7 +1,7 @@
 {
-  "name": "onetake-media-backend",
+  "name": "otm-production-backend",
   "version": "1.0.0",
-  "description": "Backend for Onetake Media Portfolio",
+  "description": "Backend for OTM Production Portfolio",
   "main": "server.js",
   "type": "module",
   "scripts": {

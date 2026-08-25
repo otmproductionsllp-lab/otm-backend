@@ -7,13 +7,6 @@ dotenv.config();
 
 const initialItems = [
   {
-    title: 'Video-41309',
-    category: 'videography',
-    thumbnailUrl: '/Video-41309.mp4',
-    videoUrl: '/Video-41309.mp4',
-    instagramUrl: '#',
-  },
-  {
     title: 'Video-23877',
     category: 'videography',
     thumbnailUrl: '/Video-23877.mp4',

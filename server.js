@@ -23,7 +23,7 @@ app.use('/api/contact', contactRoutes);
 
 // Root test endpoint
 app.get('/', (req, res) => {
-  res.json({ message: 'Onetake Media Portfolio API is running...' });
+  res.json({ message: 'OTM Production Portfolio API is running...' });
 });
 
 // Start Server
